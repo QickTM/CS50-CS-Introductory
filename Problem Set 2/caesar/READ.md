@@ -4,5 +4,5 @@ The secrecy of this “cryptosystem” relied on only Caesar and the recipients 
 
 Unencrypted text is generally called plaintext. Encrypted text is generally called ciphertext. And the secret used is called a key.
 
-To be clear, then, here’s how encrypting "HELLO" with a key of "1" yields IFMMP:
+To be clear, then, here’s how encrypting "HELLO" with a key of "1" yields IFMMP: <br>
 ![image](https://github.com/QickTM/CS50-Intro-To-Comp-Sci/assets/77444347/38c13098-a037-4005-89aa-6077ada71a20)
