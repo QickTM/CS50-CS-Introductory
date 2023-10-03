@@ -5,6 +5,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+//Use to change the letter of the alphabet down the stated value in caesar
 int main(int argc, string argv[])
 {
     //Check for command line argument
