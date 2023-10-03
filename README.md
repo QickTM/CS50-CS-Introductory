@@ -1,2 +1,2 @@
 # CS50-Introduction
-Labs and Problem Sets i have done whilst learning during the CS50 Harvard Course
+Labs and Problem Sets i have done whilst learning during the CS50 Harvard Introduction to Computer Science Course
